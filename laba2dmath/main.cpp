@@ -1,7 +1,7 @@
 #include <iostream>
 #include <locale>
-#include <vector> /* об'єкт vector  */
-#include <algorithm> /* sort for_each set_union і інші */
+#include <vector> 
+#include <algorithm> 
 
 using namespace std;
 const int SIZE = 26;
