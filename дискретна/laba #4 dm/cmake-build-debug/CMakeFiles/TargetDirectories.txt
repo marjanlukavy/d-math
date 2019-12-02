@@ -1,0 +1,3 @@
+/Users/marjanlukavyi/Desktop/ікні/дискретна/laba #4 dm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/marjanlukavyi/Desktop/ікні/дискретна/laba #4 dm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marjanlukavyi/Desktop/ікні/дискретна/laba #4 dm/cmake-build-debug/CMakeFiles/laba__4_dm.dir
